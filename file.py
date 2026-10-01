@@ -1,2 +1,1 @@
-i am manasa from dvg
-alvas college
+print("addition",a+b)
